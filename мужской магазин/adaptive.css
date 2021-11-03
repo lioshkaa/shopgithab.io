@@ -1,0 +1,508 @@
+@media(max-width:1300px){
+    .header .navigation_list ul{
+        display: flex;
+        margin-left: 306px;
+        flex-direction: row;
+        list-style: none;
+    }
+    .header .navigation_list ul li{
+        padding-top: 14px;
+        padding-bottom: 14px;
+        padding-right: 15px;
+        color: #969696;
+    
+    }
+    .porten .porten_logo{
+        font-family: Post No Bills Jaffna;
+    font-style: normal;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 26px;
+    line-height: 54px;
+    color: #FFFFFF;
+    margin-left: 305px;
+    margin-top: 15px;
+    }
+    .porten ul{
+        display: flex;
+        margin-right: 100px;
+        font-family: PT Sans;
+    font-style: normal;
+    font-weight: normal;
+    list-style: none;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    }
+    .porten ul li{
+        margin-top: 31px;
+        padding-left: 40px;
+    }
+    .photo-text {
+        position: absolute;
+        left:475;
+        right: 195;
+        width: 320px;
+     
+   }
+ .img{
+     max-width:60%;
+     max-height: auto;
+ }
+ .container-item{
+  
+    padding-top: 55px;
+    padding-bottom: 56px;
+    height:25%;
+	background: #191B1C;
+}
+.container-season{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    margin-left: 0px;
+
+}
+.contaainer-season-photo{
+    margin-left: 70px;
+    background:linear-gradient(0deg, rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5));
+}
+.container-itm-text{
+    position: absolute;
+    color:#FFFFFF;
+    left: 10;
+    top: 1386px;
+    font-family: Playfair Display ,sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+}
+.itm-text{
+    position: absolute;
+    left: 450;
+}
+.text-itm{
+  position: absolute;
+  left: 230;
+}
+.img_2{
+    margin-left: -120px;
+    max-width: 100%;
+}
+.button{
+    position: absolute;
+    left:950;
+    top:1500;
+}
+.container-text h3{
+margin-top: 100px;
+margin-left: 52px;
+
+}
+.container-text span{
+    position: absolute;
+    margin-left: 0px;
+    margin-right: 140px;
+   
+   
+}
+.btns{
+    position: absolute;
+  margin-left: 15px;
+  margin-top: 314px;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+      justify-content:center;
+      background-color: #0F0F0F;
+     max-width:90%;
+     width:100%;
+     margin-left: 20px;
+  }
+  .img{
+      max-width:100%;
+  }
+  .container-receipts{
+    height: 1589px;
+}
+.container-magazin h3{
+    margin-left: 455px;
+}
+.accord{
+    margin-left:285px;
+}
+}
+
+@media(max-width:1220px){
+    .button{
+        left:890;
+    }
+    .btns{
+        margin-top: 353px;
+    }
+    .container-text h3{
+        margin-left:11px;
+    }
+    .header .navigation_list ul{
+        margin-left: 206px;
+    }
+    .porten .porten_logo{
+        margin-left: 205px;
+    }
+    .porten ul{
+        margin-right: 150px;
+    }
+    .photo-text{
+        left: 445px;
+    }
+    .porten-photo{
+        background-position: 50%;
+    }
+}
+@media(max-width:1170px){
+    .text{
+        left:265px;
+        right:265px;
+    }
+    .photo-text{
+        left:425px;
+    }
+    .container-text span{
+        margin-right: 50px;
+    }
+    .container-magazin h3{
+        margin-left: 405px;
+    }
+    .accord{
+        margin-left: 205px;
+    }
+    .entrance{
+        margin-left: 335px;
+    }
+    .container-itm-text{
+        
+        left: 10;
+        top: 1386px;
+       
+    }
+    .itm-text{
+      
+        left: 410;
+    }
+    .text-itm{
+ 
+      left: 210;
+    }
+    .button{
+        left:850;
+    }
+    .contaainer-season-photo h3{
+        margin-left: 98px;
+    }
+}
+@media(max-width:1120px){
+    .photo-text{
+        left:380px;
+    }
+    .container-item{
+        height: 20%;
+    }
+    .container-itm-text{
+        top:1356;
+    }
+    .contaainer-season-photo h3{
+        margin-left: 80px;
+    }
+    .button{
+        left:810;
+    }
+    .btns{
+        position: absolute;
+        right:34;
+        
+    }
+    .entrance{
+        margin-left: 285px;
+
+    }
+   .season{
+       padding-bottom: 15px;
+   }
+   .container-block{
+       height:500px;
+   }
+}
+@media(max-width:1080px){
+    .container-text span{
+        
+        right: 0;
+        left:600;
+    }
+    .container-text h3{
+        
+        margin-left: -74px;
+    }
+    .img_2{
+        max-width: 80%;
+    }
+    .btns{
+        right:70;
+    }
+    .button{
+        left:780;
+    }
+}
+@media(max-width:1050px){
+    .porten ul {
+        display: none;
+    }
+    .bar_1, .bar_2, .bar_3{
+        display: flex;
+        width:30px;
+        height: 5px;
+        margin-bottom: 5px;
+        background:#969696;
+        transition: 0.5s;
+    }
+    .photo-text{
+        left:350;
+    }
+    .sidenav{
+        display: flex;
+
+    }
+    .container-burger{
+        left:930;
+    }
+   
+}
+@media(max-width:1000px){
+    .photo-text{
+        left:330;
+    }
+    .container-burger{
+        left:910;
+    }
+    .header .navigation_list ul{
+        margin-left: 106px;
+    }
+    .container-magazin h3{
+        margin-left: 305px;
+    }
+    .container-text h3{
+        margin-left: -120px;
+    }
+    .button{
+        left:728;
+    }
+    .contaainer-season-photo h3{
+        font-size: 30px;
+    }
+    .container-itm-text{
+        font-size: 14px;
+    }
+    .itm-text{
+      
+        left: 360;
+    }
+    .text-itm{
+ 
+      left: 180;
+    }
+}
+@media(max-width:980px){
+    .container-burger{
+        left:890;
+    }
+    .container-text h3{
+        margin-left: -150px;
+    }
+    .container-text span{
+        left:550;
+    }
+}
+@media(max-width:950px){
+    .container-burger{
+        left:870;
+    }
+    .container-receipts{
+        height:2089px;
+    }
+    .btns{
+        right:50;
+    }
+   .porten .porten_logo h2{
+        margin-left: -100px;
+
+    }
+    .container-receipts{
+        height:2000px;
+    }
+    .photo-text{
+        left:300;
+    }
+    .container-item{
+        display: none;
+        height:15%;
+    }
+    .img{
+        width:100%;
+        margin: auto;
+    }
+    .contaainer-season-photo{
+        margin-left: 0;
+    }
+    .button{
+        left:350;
+    }
+    .contaainer-season-photo h3{
+       margin-left:250px ;
+    }
+    .text{
+        left:220;
+        right:180;
+    }
+    .container-burger{
+        left:800;
+    }
+    .seasons{
+        display: block;
+        height:1200px;
+    }
+    .img_2{
+        width:100%;
+        max-width: 100%;
+    }
+    .container-text h3{
+        margin-left: 50px;
+    }
+    .container-text span{
+        left:150;
+        right:100;
+    }
+    .container-season{
+        display: block;
+    }
+    .panel {
+        max-height: 0%;
+        margin-left: 200px;
+        margin-right: 200px;
+        overflow: hidden;
+        padding-left: 20px;
+        color: white;
+        transition: max-height 0.2s ease-out;
+        margin-bottom: 20px;
+    }
+    .btns{
+        right:250;
+    }
+}
+@media (max-width:840px){
+    .container-burger{
+   left:720;
+    }
+    .header .navigation_list ul{
+        margin-left: 30px;
+    }
+    .container-magazin h3{
+        margin-left:205px;
+    }
+    .accord{
+        margin-left: 185px;
+    }
+    .photo-text{
+        left:250px;
+    }
+    .text{
+        left:100;
+        right: 100;
+    }
+    .entrance{
+        display: none;
+    }
+}
+@media(max-width:780px){
+    .photo-text{
+        left:230;
+    }
+    .container-burger{
+        left:620;
+    }
+    .btns{
+        left:150;
+        right:150;
+    }
+}
+@media(max-width:680px){
+    .photo-text{
+        left:180;
+    }
+    .container-burger{
+        left:560;
+    }
+    .contaainer-season-photo h3{
+        margin-left:220px;
+    }
+    .button{
+        left:280;
+    }
+    .container-magazin h3{
+        margin-left: 150px;
+    }
+    .accord{
+        margin-left: 150px;
+    }
+    .panel {
+     
+        margin-left: 150px;
+        margin-right: 100px; 
+
+    }
+
+
+}
+@media(max-width:620px){
+   .container-receipts{
+       height: 3800px;
+   }
+   .container-text span{
+       left:50;
+       right: 0;
+   }
+   .photo-text{
+       left:160;
+   }
+   .container-burger{
+       left:520;
+   }
+}
+@media(max-width:580px){
+    .container-block{
+        height:800px;
+    }
+    .text{
+        left:50;
+        right: 50;
+    }
+    .photo-text{
+        left:130;
+    }
+    .contaainer-season-photo h3{
+        margin-left: 160px;
+    }
+    .button{
+        left:230;
+    }
+    .container-burger{
+        left:480;
+    }
+    .container-magazin h3{
+        margin-left:110px;
+    }
+    .accord{
+        margin-left: 120px;
+    }
+}
+
